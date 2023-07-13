@@ -1,0 +1,59 @@
+:root {
+    --color-primary: rgb(177, 71, 207);
+    --color-secondary: rgb(0, 0, 0);
+}
+.txt-primary{
+    color: var(--color-primary);
+}
+
+.txt-secondary{
+    color: var(--color-secondary);
+}
+
+.txt-white{
+    color: white;
+}
+
+.txt-small{
+    font-size: 14px;
+}
+
+.txt-med{
+    font-size: 16px;
+}
+
+.txt-large{
+    font-size: 18px;
+}
+
+.txt-xl{
+    font-size: 20px;
+}
+
+.txt-2xl{
+    font-size: 24px;
+}
+
+.txt-3xl{
+    font-size: 28px;
+}
+
+.bg-primary{
+    background-color: var(--color-primary);
+}
+
+
+.bg-secondary{
+    background-color: var(--color-secondary);
+}
+.bg-white{
+    background-color: #fff;
+}
+
+
+.border-primary{
+    border-color: var(--color-primary);
+}
+.border-secondary{
+    border-color: var(--color-secondary)
+}
